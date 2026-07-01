@@ -1,0 +1,710 @@
+canonical_identifier: bkk:krp/KR6k0198/v1
+canonical_location: https://kanripo.org/bkk/KR6k0198/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 慈悲道場懺法
+  identifiers:
+    alt_id:
+    - T45n1909
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1909.xml
+    old_id: T45n1909
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 乙
+  label: 乙
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0198_000.yaml, hash: 'sha256:c2250f628925711ee9af292ca8b374032893a983033b74c4a8929e139bce3211'}
+  - {seq: 1, filename: KR6k0198_001.yaml, hash: 'sha256:facf9127e1d3dea276a5236bae464b9166e4481ddb38c876a1e4cd3bd145d4cb'}
+  - {seq: 2, filename: KR6k0198_002.yaml, hash: 'sha256:dd85feb6c6de080c7b7535a6f62e7632bb6074e3f4e922ef18084ad634a82e01'}
+  - {seq: 3, filename: KR6k0198_003.yaml, hash: 'sha256:6a40168e04f59c8feb7d027c17a09dc80861eba5991cd5c80cb483450dbb3b33'}
+  - {seq: 4, filename: KR6k0198_004.yaml, hash: 'sha256:356bf6c2163970817af171d629be48146fe8230686e12b33a617ec80b23338f1'}
+  - {seq: 5, filename: KR6k0198_005.yaml, hash: 'sha256:29fee2e8657b04bc69dfb7e6f1f8f359c060184b56053c1da0bbff1e8cd4256b'}
+  - {seq: 6, filename: KR6k0198_006.yaml, hash: 'sha256:1c057793deab47add2d9d2a998feb2444da626bdb8f75f59c098905446c4e5e2'}
+  - {seq: 7, filename: KR6k0198_007.yaml, hash: 'sha256:4928e412c863012e5a38e81baf434cafdffda93fa92df9eb2352331a4e4acee3'}
+  - {seq: 8, filename: KR6k0198_008.yaml, hash: 'sha256:187c9650c8acf08f42c96ec5307812099a8024559773d790cbea414d84845e65'}
+  - {seq: 9, filename: KR6k0198_009.yaml, hash: 'sha256:53805d9b4169cd8c07a9b29c8f59c6ba0a3bb838e75f78f68b608965a31073dc'}
+  - {seq: 10, filename: KR6k0198_010.yaml, hash: 'sha256:ca8fc59c41989b8d71adee4cc54eb1cc7cd720423398bda6c3959efa9592ab12'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0198_000.markers.yaml, hash: 'sha256:1ef0d7871eee2833ada4d338e86c79543c30ef8d02b4ef0c4c35da56f9a29152'}
+  - {seq: 1, role: markers, filename: assets/KR6k0198_001.markers.yaml, hash: 'sha256:20ea22abbd157bbbbc150d5f79913283d6835c28c3e0fa9ae65b7350122a5d47'}
+  - {seq: 2, role: markers, filename: assets/KR6k0198_002.markers.yaml, hash: 'sha256:3db8544b901326999bf86a4459630e6272f5997f25dd901a0e681fb35b5cc9fa'}
+  - {seq: 3, role: markers, filename: assets/KR6k0198_003.markers.yaml, hash: 'sha256:d7d443f977fba430e5679cde378d7b88a2ffe7ca0920fd8324e291ac99fe45b1'}
+  - {seq: 4, role: markers, filename: assets/KR6k0198_004.markers.yaml, hash: 'sha256:1adc9aa9fb03cc9ee4986dad73159b360597e0d57ae3bf161b6a257c5ffd9569'}
+  - {seq: 5, role: markers, filename: assets/KR6k0198_005.markers.yaml, hash: 'sha256:5686e12ca996a13a794266381dcdacf613f19e38bbb70fef17c7783d3ca8e472'}
+  - {seq: 6, role: markers, filename: assets/KR6k0198_006.markers.yaml, hash: 'sha256:0d56a1340faa9a97d536ee8c3bc246e78c4c5f1d28ffea4508b84059cf88629e'}
+  - {seq: 7, role: markers, filename: assets/KR6k0198_007.markers.yaml, hash: 'sha256:5b383e7039b9db5910f4204ee17c1fdfd9f685553457b8d904252dc1500ce67f'}
+  - {seq: 8, role: markers, filename: assets/KR6k0198_008.markers.yaml, hash: 'sha256:8d4e75841681fd95cf84fc135c4b172052d99320af54d979bbcdff950e9aca07'}
+  - {seq: 9, role: markers, filename: assets/KR6k0198_009.markers.yaml, hash: 'sha256:ea83c1af25cb2829d5fc35ea215c4d4e41f96c6e793cf932292bf0bb9a592e58'}
+  - {seq: 10, role: markers, filename: assets/KR6k0198_010.markers.yaml, hash: 'sha256:06a0985ddb4e930ce78c2f7b70d5cf33017ff87f2a7ce13f27ec16e61f2bc9fe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0198_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 慈悲道場懺法傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0198_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7363
+  label: 慈悲道場懺法卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0198_T_001-mulu-1
+    span:
+    - body
+    - 570
+    - 570
+  label: 1 歸依三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0198_T_001-mulu-2
+    span:
+    - body
+    - 2412
+    - 2412
+  label: 2 斷疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0198_T_001-mulu-3
+    span:
+    - body
+    - 5093
+    - 5093
+  label: 3 懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0198_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5484
+  label: 慈悲道場懺法卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0198_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 4 發菩提心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0198_T_002-mulu-2
+    span:
+    - body
+    - 2442
+    - 2442
+  label: 5 發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0198_T_002-mulu-3
+    span:
+    - body
+    - 4085
+    - 4085
+  label: 6 發迴向心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0198_T_002-mulu-4
+    span:
+    - body
+    - 4839
+    - 4839
+  label: 讚佛呪願
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0198_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7100
+  label: 慈悲道場懺法卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0198_T_003-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 1 顯果報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0198_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6388
+  label: 慈悲道場懺法卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0198_T_004-mulu-1
+    span:
+    - body
+    - 1988
+    - 1988
+  label: 2 出地獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0198_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5567
+  label: 慈悲道場懺法卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0198_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 3 解怨釋結
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0198_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5602
+  label: 慈悲道場懺法卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0198_T_006-mulu-1
+    span:
+    - body
+    - 4719
+    - 4719
+  label: 4 發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0198_T_006-mulu-2
+    span:
+    - body
+    - 5459
+    - 5459
+  label: 讚佛呪願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5109
+  label: 慈悲道場懺法卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-1
+    span:
+    - body
+    - 399
+    - 399
+  label: 1 自慶
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-2
+    span:
+    - body
+    - 1475
+    - 1475
+  label: 2 警緣三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-3
+    span:
+    - body
+    - 2145
+    - 2145
+  label: 3 懺主謝大眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-4
+    span:
+    - body
+    - 2556
+    - 2556
+  label: 4 總發大願
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-5
+    span:
+    - body
+    - 3600
+    - 3600
+  label: 1 為六道禮佛第二奉為天道禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-6
+    span:
+    - body
+    - 4478
+    - 4478
+  label: 2 奉為諸仙禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0198_T_007-mulu-7
+    span:
+    - body
+    - 4796
+    - 4796
+  label: 3 奉為梵王等禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 4542
+  label: 慈悲道場懺法卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 4 奉為阿脩羅道一切善神禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-2
+    span:
+    - body
+    - 435
+    - 435
+  label: 5 奉為龍王禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-3
+    span:
+    - body
+    - 851
+    - 851
+  label: 6 奉為魔王禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-4
+    span:
+    - body
+    - 1188
+    - 1188
+  label: 7 為人道禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-5
+    span:
+    - body
+    - 1384
+    - 1384
+  label: 1 奉為國王禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-6
+    span:
+    - body
+    - 1807
+    - 1807
+  label: 2 奉為諸王禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-7
+    span:
+    - body
+    - 2114
+    - 2114
+  label: 3 奉為父母禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-8
+    span:
+    - body
+    - 2576
+    - 2576
+  label: 4 各為過去父母禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-9
+    span:
+    - body
+    - 3057
+    - 3057
+  label: 5 奉為師長禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-10
+    span:
+    - body
+    - 3578
+    - 3578
+  label: 6 為十方比丘比丘尼禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0198_T_008-mulu-11
+    span:
+    - body
+    - 4064
+    - 4064
+  label: 7 為十方過去比丘比丘尼禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5983
+  label: 慈悲道場懺法卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 1 為阿鼻地獄禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-2
+    span:
+    - body
+    - 1021
+    - 1021
+  label: 2 為灰河鐵丸等獄禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-3
+    span:
+    - body
+    - 1389
+    - 1389
+  label: 3 為飲銅炭坑等獄禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-4
+    span:
+    - body
+    - 1788
+    - 1788
+  label: 4 為刀兵銅釜等獄禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-5
+    span:
+    - body
+    - 2166
+    - 2166
+  label: 5 為火城刀山等獄禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-6
+    span:
+    - body
+    - 2593
+    - 2593
+  label: 6 為餓鬼道禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-7
+    span:
+    - body
+    - 2987
+    - 2987
+  label: 7 為畜生道禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-8
+    span:
+    - body
+    - 3348
+    - 3348
+  label: 8 為六道發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-9
+    span:
+    - body
+    - 3750
+    - 3750
+  label: 警念無常
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-10
+    span:
+    - body
+    - 4556
+    - 4556
+  label: 為執勞運力禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-11
+    span:
+    - body
+    - 5090
+    - 5090
+  label: 3 發迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0198_T_009-mulu-12
+    span:
+    - body
+    - 5571
+    - 5571
+  label: 說迴向法
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 6457
+  label: 慈悲道場懺法卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 菩薩迴向法
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-2
+    span:
+    - body
+    - 1019
+    - 1019
+  label: 4 發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-3
+    span:
+    - body
+    - 1097
+    - 1097
+  label: 初發眼根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-4
+    span:
+    - body
+    - 1669
+    - 1669
+  label: 次發耳根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-5
+    span:
+    - body
+    - 2293
+    - 2293
+  label: 次發鼻根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-6
+    span:
+    - body
+    - 2850
+    - 2850
+  label: 次發舌根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-7
+    span:
+    - body
+    - 3199
+    - 3199
+  label: 次發身根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-8
+    span:
+    - body
+    - 3609
+    - 3609
+  label: 次發意根願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-9
+    span:
+    - body
+    - 4168
+    - 4168
+  label: 次發口願
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-10
+    span:
+    - body
+    - 4659
+    - 4659
+  label: 諸行法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-11
+    span:
+    - body
+    - 5234
+    - 5234
+  label: 5 囑累
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6k0198_T_010-mulu-12
+    span:
+    - body
+    - 6213
+    - 6213
+  label: 讚佛呪願
+  type: mulu
+  level: 1
+hash: sha256:60aba1358c5bb70d1981a882ba9eedfe053ee2583b34f58572d498186a4c4463
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
