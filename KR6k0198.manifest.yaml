@@ -30,7 +30,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0198_000.yaml, hash: 'sha256:c2250f628925711ee9af292ca8b374032893a983033b74c4a8929e139bce3211'}
+  - {seq: 0, filename: KR6k0198_000.yaml, hash: 'sha256:de09ed0bb0adc9e1d21872ec4af59e44da68198dc01578de0f3b8c9518ceca8d'}
   - {seq: 1, filename: KR6k0198_001.yaml, hash: 'sha256:9e1d0168376cb3ba1b8db4dd9d62b422e1936d4f21bf19259f953734cc0cf5b5'}
   - {seq: 2, filename: KR6k0198_002.yaml, hash: 'sha256:baaf5b5fccb75c33d04b7ae6143e0cd156c8831739e4680605e8a38af0eaeed2'}
   - {seq: 3, filename: KR6k0198_003.yaml, hash: 'sha256:ff88213773f07ebd26873a472b017da76ffa50aa2c047bfbd971638f96c00ec1'}
@@ -42,7 +42,7 @@ assets:
   - {seq: 9, filename: KR6k0198_009.yaml, hash: 'sha256:bf599ea363291814d549f0dd3fafe7a3e9d68172723d5b225ca2ffb66c928709'}
   - {seq: 10, filename: KR6k0198_010.yaml, hash: 'sha256:1bc030ade8cda91737f82a1cfa3ea7cce39794a163757ce9468ce829ce14d865'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0198_000.markers.yaml, hash: 'sha256:98891438fda39c7d71295b18f02f80d06144a25bd28931783b11622d6eb8a3f0'}
+  - {seq: 0, role: markers, filename: assets/KR6k0198_000.markers.yaml, hash: 'sha256:af4e52d7c3ed237ad69f3637e799b3d5bb653b7b5d0d228ac17939ae8828467e'}
   - {seq: 1, role: markers, filename: assets/KR6k0198_001.markers.yaml, hash: 'sha256:71cd226aa8c00a3bd59c630911c8b9943acf99f7ff4461279f295b35d49437e8'}
   - {seq: 2, role: markers, filename: assets/KR6k0198_002.markers.yaml, hash: 'sha256:e84130d2a9cdb35aaccad65a4fedbbc20cf28c95e8d96031bc1eaf6b6c195e92'}
   - {seq: 3, role: markers, filename: assets/KR6k0198_003.markers.yaml, hash: 'sha256:421de4c6cd7faf3f98324f585cac24f843d304532bdc7710cd02b57db97bb4c3'}
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0198_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 慈悲道場懺法傳
@@ -704,7 +704,7 @@ table_of_contents:
   label: 讚佛呪願
   type: mulu
   level: 1
-hash: sha256:2a1febcc0764886c0b4137c2c6e767b13835010b0ef9f7a5cb58938ea1f504f0
+hash: sha256:982f52fe9100f60683b2aaf403e894725a447b355cd4a696f11fd0c18e42dffa
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
